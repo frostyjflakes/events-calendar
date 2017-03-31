@@ -1,0 +1,26 @@
+html {
+  font-family: 'Merriweather', serif;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 0.75em;
+}
+
+th {
+  text-align: center;
+}
+
+td {
+  text-align: right;
+  vertical-align: top;
+}
+
+caption {
+  font-weight: bold;
+  text-align: center;
+}
