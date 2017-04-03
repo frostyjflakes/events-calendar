@@ -8,11 +8,11 @@ table {
 
 th, td {
   border: 1px solid #ccc;
-  padding: .75em;
 }
 
 td {
   vertical-align: top;
+  height: 180px;
 }
 
 .grey {
